@@ -3,7 +3,7 @@
 # [1.23.10] - April 15 2022
 
 ## Fixed
- - Now it has to be impossible for the compiler server to stay alive please god
+ - Now it has to be impossible for the compiler server to stay alive, please god
 
 # [1.23.9] - April 14 2022
 
